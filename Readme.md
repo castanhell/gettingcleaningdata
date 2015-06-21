@@ -13,7 +13,7 @@ To reduce your time, this document is organized in sessions, which are:
 In this folders you will find:
 
 * The dataset obtained from the course page (At UCI HAR Dataset)
-* The *ren_analysis.R* file containing the script for this Course Project. **This is the only script used on this exercise!**
+* The *run_analysis.R* file containing the script for this Course Project. **This is the only script used on this exercise!**
 * The Codebook for the script, at the *CodeBook.md* file.
 
 ## The *run_analysis.R* script
@@ -37,17 +37,17 @@ The last step is to summarize by each activity and each individual. I use the ag
  
 ### How does the script fits the project requirements
 
-1. Merges the training and the test sets to create one data set.
+** Merges the training and the test sets to create one data set. **
 * It uses rbind as explained previously
-2. Extracts only the measurements on the mean and standard deviation for each measurement. 
+**Extracts only the measurements on the mean and standard deviation for each measurement. **
 * Greps the columns excluding the "meanFreq" attributes, which according to the *features_info.txt* file is the mean of the frequency components,
 which I do not consider for simplicity purposes.
-3. Uses descriptive activity names to name the activities in the data set
+**Uses descriptive activity names to name the activities in the data set**
 * I understand to let the activity names on the answer, which is the tidy data, so the reader won't need to look up another table to know 
 which activity is (If you have any doubt please check the tidy_data.txt uploaded to this exercise).
-4. Appropriately labels the data set with descriptive variable names. 
+**Appropriately labels the data set with descriptive variable names. **
 * I decided to use the original column labels to reduce the ammount of work, it should be okay according to the community. Just for sure I will let it clear in the code book the tidy_data represents mean_data for each Individual-ActivityName pair.
-5. From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+** From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject. **
 * Everything is explained above. 
 
 ## The code book
