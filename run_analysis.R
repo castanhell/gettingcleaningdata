@@ -73,3 +73,5 @@ full_ds <- full_ds[,desiredcols]
 #mean of each collumn for distinct ActivityName, IndividualNumber pairs
 tidy_data <- aggregate(full_ds[,3:dim(full_ds)[2]], by=list(ActivityName=full_ds$ActivityName,
                                        IndividualNumber=full_ds$IndividualNumber),FUN=mean, na.rm=TRUE)
+
+write.table(tidy_data,file="tidy_data.txt",row.name=FALSE)
