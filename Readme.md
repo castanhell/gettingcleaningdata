@@ -53,7 +53,7 @@ which activity is (If you have any doubt please check the tidy_data.txt uploaded
 
 **Appropriately labels the data set with descriptive variable names.**
 
-I decided to use the original column labels to reduce the ammount of work, it should be okay according to the community. Just for sure I will let it clear in the code book the tidy_data represents mean_data for each Individual-ActivityName pair.
+I decided to use the original column labels (Those used on the paper and available on the file *features.txt*)  to reduce the ammount of work, it should be okay according to the community. Just for sure I will let it clear in the code book the tidy_data represents mean_data for each Individual-ActivityName pair.
 
 **From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.**
 
