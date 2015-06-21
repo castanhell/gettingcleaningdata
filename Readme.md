@@ -37,7 +37,7 @@ The last step is to summarize by each activity and each individual. I use the ag
  
 ### How does the script fits the project requirements
 
-** Merges the training and the test sets to create one data set.**
+**Merges the training and the test sets to create one data set.**
 
 *It uses rbind as explained previously
 
