@@ -35,29 +35,29 @@ Finally we check step 2, which is to keep only average and standard deviation co
 
 The last step is to summarize by each activity and each individual. I use the aggregate function where the by argument is a list containing ActivityName and IndividualNumber), this results in a 180x68 dataframe containing the average value for all the avg() and std() for all the individuals. 
  
-### How does the script fits the project requirements
+### How does the script fits the project requirements (The five steps from the Exercise)
 
 **Merges the training and the test sets to create one data set.**
 
-*It uses rbind as explained previously
+It uses rbind as explained previously
 
 **Extracts only the measurements on the mean and standard deviation for each measurement.**
 
-*Greps the columns excluding the "meanFreq" attributes, which according to the *features_info.txt* file is the mean of the frequency components,
+Greps the columns excluding the "meanFreq" attributes, which according to the *features_info.txt* file is the mean of the frequency components,
 which I do not consider for simplicity purposes.
 
 **Uses descriptive activity names to name the activities in the data set**
 
-*I understand to let the activity names on the answer, which is the tidy data, so the reader won't need to look up another table to know 
+I understand to let the activity names on the answer, which is the tidy data, so the reader won't need to look up another table to know 
 which activity is (If you have any doubt please check the tidy_data.txt uploaded to this exercise).
 
 **Appropriately labels the data set with descriptive variable names.**
 
-*I decided to use the original column labels to reduce the ammount of work, it should be okay according to the community. Just for sure I will let it clear in the code book the tidy_data represents mean_data for each Individual-ActivityName pair.
+I decided to use the original column labels to reduce the ammount of work, it should be okay according to the community. Just for sure I will let it clear in the code book the tidy_data represents mean_data for each Individual-ActivityName pair.
 
 **From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and each subject.**
 
-*Everything is explained above. 
+Everything is explained above. 
 
 ## The code book
 
