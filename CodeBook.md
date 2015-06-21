@@ -33,13 +33,17 @@ Remember the values containing here summarize the average of the variable for an
 ### ActivityName
 
 Description: Each activity performed by an individual.
+
 Type: Categorial.
+
 Possible values: {WALKING, WALKING_UPSTAIRS, WALKING_DOWNSTAIRS, SITTING, STANDING, LAYING}
 
 ### IndividualNumber
 
 Description: The individual who performed an activity.
+
 Type: Ordinal
+
 Possible values: Integer from 1 to 30, which one a different individual.
 
 ### tBodyAcc-std()-X  
