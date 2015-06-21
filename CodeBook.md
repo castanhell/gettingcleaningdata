@@ -48,399 +48,400 @@ Possible values: Integer from 1 to 30, which one a different individual.
 
 ### tBodyAcc-std()-X  
 
-Description:   Average value of the  tBodyAcc-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAcc-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAcc-std()-Y  
 
-Description:   Average value of the  tBodyAcc-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAcc-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAcc-std()-Z  
 
-Description:   Average value of the  tBodyAcc-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAcc-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAcc-std()-X  
 
-Description:   Average value of the  tGravityAcc-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAcc-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAcc-std()-Y  
 
-Description:   Average value of the  tGravityAcc-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAcc-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAcc-std()-Z  
 
-Description:   Average value of the  tGravityAcc-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAcc-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerk-std()-X  
 
-Description:   Average value of the  tBodyAccJerk-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerk-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerk-std()-Y  
 
-Description:   Average value of the  tBodyAccJerk-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerk-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerk-std()-Z  
 
-Description:   Average value of the  tBodyAccJerk-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerk-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyro-std()-X  
 
-Description:   Average value of the  tBodyGyro-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyro-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyro-std()-Y  
 
-Description:   Average value of the  tBodyGyro-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyro-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyro-std()-Z  
 
-Description:   Average value of the  tBodyGyro-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyro-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerk-std()-X  
 
-Description:   Average value of the  tBodyGyroJerk-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerk-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerk-std()-Y  
 
-Description:   Average value of the  tBodyGyroJerk-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerk-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerk-std()-Z  
 
-Description:   Average value of the  tBodyGyroJerk-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerk-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccMag-std()  
 
-Description:   Average value of the  tBodyAccMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAccMag-std()  
 
-Description:   Average value of the  tGravityAccMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAccMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerkMag-std()  
 
-Description:   Average value of the  tBodyAccJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroMag-std()  
 
-Description:   Average value of the  tBodyGyroMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerkMag-std()  
 
-Description:   Average value of the  tBodyGyroJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAcc-std()-X  
 
-Description:   Average value of the  fBodyAcc-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAcc-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAcc-std()-Y  
 
-Description:   Average value of the  fBodyAcc-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAcc-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAcc-std()-Z  
 
-Description:   Average value of the  fBodyAcc-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAcc-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccJerk-std()-X  
 
-Description:   Average value of the  fBodyAccJerk-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccJerk-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccJerk-std()-Y  
 
-Description:   Average value of the  fBodyAccJerk-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccJerk-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccJerk-std()-Z  
 
-Description:   Average value of the  fBodyAccJerk-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccJerk-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyGyro-std()-X  
 
-Description:   Average value of the  fBodyGyro-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyGyro-std()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyGyro-std()-Y  
 
-Description:   Average value of the  fBodyGyro-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyGyro-std()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyGyro-std()-Z  
 
-Description:   Average value of the  fBodyGyro-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyGyro-std()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccMag-std()  
 
-Description:   Average value of the  fBodyAccMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyBodyAccJerkMag-std()  
 
-Description:   Average value of the  fBodyBodyAccJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyBodyAccJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyBodyGyroMag-std()  
 
-Description:   Average value of the  fBodyBodyGyroMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyBodyGyroMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyBodyGyroJerkMag-std()  
 
-Description:   Average value of the  fBodyBodyGyroJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyBodyGyroJerkMag-std()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAcc-mean()-X  
 
-Description:   Average value of the  tBodyAcc-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAcc-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAcc-mean()-Y  
 
-Description:   Average value of the  tBodyAcc-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAcc-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAcc-mean()-Z  
 
-Description:   Average value of the  tBodyAcc-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAcc-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAcc-mean()-X  
 
-Description:   Average value of the  tGravityAcc-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAcc-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAcc-mean()-Y  
 
-Description:   Average value of the  tGravityAcc-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAcc-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAcc-mean()-Z  
 
-Description:   Average value of the  tGravityAcc-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAcc-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerk-mean()-X  
 
-Description:   Average value of the  tBodyAccJerk-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerk-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerk-mean()-Y  
 
-Description:   Average value of the  tBodyAccJerk-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerk-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerk-mean()-Z  
 
-Description:   Average value of the  tBodyAccJerk-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerk-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyro-mean()-X  
 
-Description:   Average value of the  tBodyGyro-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyro-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyro-mean()-Y  
 
-Description:   Average value of the  tBodyGyro-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyro-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyro-mean()-Z  
 
-Description:   Average value of the  tBodyGyro-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyro-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerk-mean()-X  
 
-Description:   Average value of the  tBodyGyroJerk-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerk-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerk-mean()-Y  
 
-Description:   Average value of the  tBodyGyroJerk-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerk-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerk-mean()-Z  
 
-Description:   Average value of the  tBodyGyroJerk-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerk-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccMag-mean()  
 
-Description:   Average value of the  tBodyAccMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tGravityAccMag-mean()  
 
-Description:   Average value of the  tGravityAccMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tGravityAccMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyAccJerkMag-mean()  
 
-Description:   Average value of the  tBodyAccJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyAccJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroMag-mean()  
 
-Description:   Average value of the  tBodyGyroMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### tBodyGyroJerkMag-mean()  
 
-Description:   Average value of the  tBodyGyroJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  tBodyGyroJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAcc-mean()-X  
 
-Description:   Average value of the  fBodyAcc-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAcc-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAcc-mean()-Y  
 
-Description:   Average value of the  fBodyAcc-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAcc-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAcc-mean()-Z  
 
-Description:   Average value of the  fBodyAcc-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAcc-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccJerk-mean()-X  
 
-Description:   Average value of the  fBodyAccJerk-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccJerk-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccJerk-mean()-Y  
 
-Description:   Average value of the  fBodyAccJerk-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccJerk-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccJerk-mean()-Z  
 
-Description:   Average value of the  fBodyAccJerk-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccJerk-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyGyro-mean()-X  
 
-Description:   Average value of the  fBodyGyro-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyGyro-mean()-X  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyGyro-mean()-Y  
 
-Description:   Average value of the  fBodyGyro-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyGyro-mean()-Y  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyGyro-mean()-Z  
 
-Description:   Average value of the  fBodyGyro-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyGyro-mean()-Z  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyAccMag-mean()  
 
-Description:   Average value of the  fBodyAccMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyAccMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyBodyAccJerkMag-mean()  
 
-Description:   Average value of the  fBodyBodyAccJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyBodyAccJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyBodyGyroMag-mean()  
 
-Description:   Average value of the  fBodyBodyGyroMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyBodyGyroMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
 
 ### fBodyBodyGyroJerkMag-mean()  
 
-Description:   Average value of the  fBodyBodyGyroJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** means average and **std()** the standard deviation the the measure. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
+Description:   Average value of the  fBodyBodyGyroJerkMag-mean()  for a fixed ActivityName-Individual pair. *t*  Resumes **time**, *Acc* resumes **Accelerometer** and **Gyro** resumes **Gyroscopter**, **avg()** implies average and **std()** the standard deviation the the measure. *{X,Y,Z}* is the **Axis** Remember these are average values from the masures for and IndividualNumber-ActivityName pair. Please read the **activities_label.txt** file for more detailed information on the measures. This file is included in the UCI HAR Database folder
  
 Type:Continuous
+
 
 ## References
 
