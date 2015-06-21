@@ -5,7 +5,7 @@ Hello, this repository contains my submission for the "Getting and Cleaning Data
 To reduce your time, this document is organized in sessions, which are:
 
 1. How the folders are organized.
-2. How the *run_analysis.R* script works and how should you run it (If you are a rigid evaluator).
+2. How the *run_analysis.R* script works and how it fits the course requirements.
 3. How the code book was made (Just in case).
 
 ## How the folders are organized
